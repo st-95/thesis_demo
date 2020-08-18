@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+final actuatorButtonBackgroundColorDark = Colors.brown[300];
+final actuatorButtonBackgroundColorLight = Colors.brown[100];
+final actuatorButtonBorderColor = Colors.brown;
+final actuatorsContainerBackgroundColor = Colors.grey[200];
+final actuatorsContainerShadowColor = Colors.brown.withOpacity(0.5);
+final adviceBoxBackgroundColor = Colors.brown[200];
+final adviceColorGreen = Colors.green[800];
+final adviceColorRed = Colors.red[400];
+final backgroundColor = Colors.brown[300];
+final dotActiveColor = Colors.greenAccent;
+final dotNotActiveColor = Colors.grey[400];
+final gridBackgroundColor = Colors.white;
+final gridShadowColor = Colors.grey.withOpacity(0.5);
+final iconColor = Colors.brown;
+final progressIndicatorBackgroundColor = Colors.grey;
+final progressIndicatorValueColor = Colors.greenAccent;
+final snackBarBackgroundColor = Colors.red[400];
+final snackBarTextColor = Colors.grey[300];
+final switchActiveColor = Colors.green[500];
